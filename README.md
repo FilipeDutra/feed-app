@@ -5,5 +5,6 @@ A porposta de desenvolvimento para esse projeto é disponilizar na web um "Porta
 O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
 # Endereço de Deploy - GitHub Pages
+https://github.com/FilipeDutra/feed-app
 
 
